@@ -38,7 +38,7 @@ class Door:
     def close_the_door(self):
         """
         Methode für das schliessen der Türe.
-        Das geht imme, auch wenn die Türe schon geschlossen oder verriegelt ist. Der Zustand ändert dann nämlich nicht.
+        Das geht imme, auh wenn die Türe schon geschlossen oder verriegelt ist. Der Zustand ändert dann nämlich nicht.
         """
         self._door_is_open = False
 
