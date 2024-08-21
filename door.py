@@ -1,5 +1,5 @@
 class Door:
-  """
+    """
     Diese Klasse beschreibt eine Türe
     mit der Eigenschaft color (Farbe) und den Zuständen
     door_is_open (für geöffnete Türe)
